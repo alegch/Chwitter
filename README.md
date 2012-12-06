@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Twitter
 
 TODO: Write a gem description
